@@ -3,7 +3,7 @@
 <h3 align="center">Welcome to my corner of GitHub. I'm a passionate data scientist with a keen interest in finance, algorithms, and data structures. This profile is a collection of my work, where I explore the intersection of these fields to build powerful, efficient, and insightful solutions.</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hedes2/Hedes2/main/download.png" alt="coding gif" width="900"/>
+  <img src="https://raw.githubusercontent.com/Hedes2/Hedes2/main/06f21a161921919.63cd7887d0a70.gif" alt="coding gif" width="600"/>
 </p>
 
 - 📫 How to reach me **avikumar2603work@gmail.com**
